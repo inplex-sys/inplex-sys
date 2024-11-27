@@ -14,7 +14,7 @@ export default class Client {
 <h3 align="center">⚖️ Last Post</h3>
 
 <a href="https://github.com/Inplex-sys/exodus-privacy-report">
-    <img src="https://github.com/user-attachments/assets/8fdec480-fef2-4744-8b4b-b7f78e285c68"/>
+    <img src="https://github.com/user-attachments/assets/6ab27e34-0913-4cd3-aa46-f755d14da2c0"/>
 </a>
 
 <div align="center"><a href="https://github.com/Inplex-sys/exodus-privacy-report">Learn How Exodus Centralized Servers Can Be A Danger</a></div>
@@ -50,20 +50,20 @@ export default class Client {
     <br>
     <br>
     <p>
-        <img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/1df44418-23d8-43e1-8988-ae55f3d98b0b"/>
+        <img width="100" align="left" src="https://github.com/user-attachments/assets/26374273-07f5-42ea-a8cb-99afbb2968a3"/>
         <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">The Reverse Lab</a></h3>
         <h4>A repo that contains malwares that have been reversed, and investigations about malicious organizations.</h4>
     </p>
     <hr>
     <br>
     <p>
-        <img width="100" align="right" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/8441719e-e233-439a-9778-43566230b711">
+        <img width="100" align="right" src="https://github.com/user-attachments/assets/bfa8f8d8-6529-4fb6-b91f-8baf3a325efc"/>
         <h3 align="right"><a href="https://github.com/Inplex-sys/espnix">Espnix</a></h3>
         <h4 align="right">An Open-Source Unix like system that is made to run on ESP32 and STM32 micro-chips.</h4>
     </p>
     <hr>
     <p>
-        <img width="100" align="left" src="https://github.com/user-attachments/assets/1627f5ca-1af6-48d9-83e2-7ebc6630a4db">
+        <img width="100" align="left" src="https://github.com/user-attachments/assets/c90a73fc-5f22-4003-8277-5c6d2e642ae4"/>
         <h3><a href="https://github.com/E2EDPS/Research-Paper">E2EDPS</a></h3>
         <h4>E2EDPS is an HTTP based protocol designed around a client-server architecture where the client is responsible for encrypting data before sending it to the server.</h4>
     </p>
@@ -71,7 +71,7 @@ export default class Client {
     <hr>
     <br>
     <p>
-        <img width="100" align="right" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/ea1480ef-dc05-486e-8324-ce5b6ba14692">
+        <img width="100" align="right" src="https://github.com/user-attachments/assets/3f2d9a0c-8510-413b-908c-04f3fea2021b"/>
         <h3 align="right"><a href="https://github.com/Inplex-sys/pc-auth">PC Auth</a></h3>
         <h4 align="right">A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
     </p>
